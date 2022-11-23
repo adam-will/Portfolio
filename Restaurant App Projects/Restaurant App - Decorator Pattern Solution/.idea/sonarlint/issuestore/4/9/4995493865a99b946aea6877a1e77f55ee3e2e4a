@@ -1,0 +1,30 @@
+
+’
+java:S1319|"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÍÒ“®úÿÿÿÿ8‡‹‰¢¯0
+
+java:S1319€"jThe type of "orderItems" should be an interface such as "List" rather than the implementation "ArrayList".(ÁÆşıÿÿÿÿ8‡‹‰¢¯0
+K
+java:S1940-")Use the opposite operator ("!=") instead.(«¤ıÿÿÿÿ8™‹‰¢¯0
+b
+java:S1854E"@Remove this useless assignment to local variable "totalBalance".(áæÇòÿÿÿÿÿ8ª‹‰¢¯0
+S
+java:S1481E"1Remove this unused "totalBalance" local variable.(áæÇòÿÿÿÿÿ8­‹‰¢¯0
+[	java:S106¥"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8·‹‰¢¯0
+[	java:S106¦"9Replace this use of System.out or System.err by a logger.(„ºôÈşÿÿÿÿ8·‹‰¢¯0
+V	java:S106§"9Replace this use of System.out or System.err by a logger.(„”€´8·‹‰¢¯0
+V	java:S106¨"9Replace this use of System.out or System.err by a logger.(»¹°8·‹‰¢¯0
+[	java:S106©"9Replace this use of System.out or System.err by a logger.(ÙËØ‚üÿÿÿÿ8·‹‰¢¯0
+[	java:S106«"9Replace this use of System.out or System.err by a logger.(ş€‹úÿÿÿÿ8·‹‰¢¯0
+^	java:S125¬"<This block of commented-out lines of code should be removed.(ÏñáÉøÿÿÿÿ8·‹‰¢¯0
+[	java:S106³"9Replace this use of System.out or System.err by a logger.(ş€‹úÿÿÿÿ8·‹‰¢¯0
+^	java:S125´"<This block of commented-out lines of code should be removed.(ÏñáÉøÿÿÿÿ8·‹‰¢¯0
+[	java:S106º"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8·‹‰¢¯0
+[	java:S106»"9Replace this use of System.out or System.err by a logger.(°×‹ıÿÿÿÿ8·‹‰¢¯0
+[	java:S106½"9Replace this use of System.out or System.err by a logger.(ş€‹úÿÿÿÿ8·‹‰¢¯0
+^	java:S125¾"<This block of commented-out lines of code should be removed.(ÏñáÉøÿÿÿÿ8·‹‰¢¯0
+[	java:S106Æ"9Replace this use of System.out or System.err by a logger.(ş€‹úÿÿÿÿ8·‹‰¢¯0
+^	java:S125Ç"<This block of commented-out lines of code should be removed.(ÏñáÉøÿÿÿÿ8·‹‰¢¯0
+V	java:S106Í"9Replace this use of System.out or System.err by a logger.(»¹°8·‹‰¢¯0
+V	java:S106Î"9Replace this use of System.out or System.err by a logger.(ï§†È8·‹‰¢¯0
+V	java:S106Ï"9Replace this use of System.out or System.err by a logger.(½Ãš®8·‹‰¢¯0
+[	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8·‹‰¢¯0

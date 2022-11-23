@@ -1,0 +1,5 @@
+main\java\domain\Payment.class
+main\java\domain\Table.class
+main\java\domain\WaiterShift.class
+main\java\domain\Order.class
+main\java\clients\RestaurantApp.class

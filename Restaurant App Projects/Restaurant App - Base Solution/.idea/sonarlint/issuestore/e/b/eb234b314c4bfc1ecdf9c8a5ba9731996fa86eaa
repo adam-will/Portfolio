@@ -1,0 +1,27 @@
+
+Y
+java:S1854~"7Remove this useless assignment to local variable "oi2".(ÈÎÛ­ÿÿÿÿÿ8ŒçğÊ¯0
+X
+java:S1854y"6Remove this useless assignment to local variable "i4".(«§üÿÿÿÿ8ŒçğÊ¯0
+R
+java:S1854x"6Remove this useless assignment to local variable "i3".(…—Éz8ŒçğÊ¯0
+W	java:S125"<This block of commented-out lines of code should be removed.( Ÿ³8ŒçğÊ¯0
+W	java:S125&"<This block of commented-out lines of code should be removed.( Ÿ³8ŒçğÊ¯0
+]	java:S125<"<This block of commented-out lines of code should be removed.(Ñì¸™şÿÿÿÿ8ŒçğÊ¯0
+]	java:S125_"<This block of commented-out lines of code should be removed.(Ñì¸™şÿÿÿÿ8ŒçğÊ¯0
+N
+java:S1135"2Complete the task associated to this TODO comment.(‡ëˆ<8ŒçğÊ¯0
+T
+java:S1135%"2Complete the task associated to this TODO comment.(‹õĞ‹ûÿÿÿÿ8ŒçğÊ¯0
+T
+java:S1135;"2Complete the task associated to this TODO comment.(ˆãª³øÿÿÿÿ8ŒçğÊ¯0
+T
+java:S1135^"2Complete the task associated to this TODO comment.(º­Âşÿÿÿÿ8ŒçğÊ¯0
+O
+java:S1135r"2Complete the task associated to this TODO comment.(×íú¦8ŒçğÊ¯0
+C
+java:S1481x"'Remove this unused "i3" local variable.(…—Éz8œçğÊ¯0
+I
+java:S1481y"'Remove this unused "i4" local variable.(«§üÿÿÿÿ8¬çğÊ¯0
+J
+java:S1481~"(Remove this unused "oi2" local variable.(ÈÎÛ­ÿÿÿÿÿ8¬çğÊ¯0

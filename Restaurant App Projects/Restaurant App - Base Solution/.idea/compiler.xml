@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="restaurant-app-0606" />
+        <module name="restaurant-app-0609" />
+        <module name="restaurant-app-0608" />
+        <module name="restaurant-app-0831 - Coupling Annotations - Base" />
+        <module name="restaurant-app-2605" />
+        <module name="restaurant-app-2505" />
+        <module name="restaurant-app-0803" />
+        <module name="restaurant-app-0604" />
+        <module name="restaurant-app-0620" />
+        <module name="restaurant-app-2405" />
+        <module name="restaurant-app-0623" />
+        <module name="restaurant-app-2305" />
+        <module name="restaurant-app-0106" />
+        <module name="restaurant-app-0622" />
+        <module name="restaurant-app-3005" />
+        <module name="Restaurant App Project" />
+        <module name="restaurant-app-0618" />
+        <module name="restaurant-app-1805" />
+        <module name="restaurant-app-0617" />
+        <module name="restaurant-app-0719" />
+        <module name="restaurant-app-0713" />
+        <module name="restaurant-app-0616" />
+        <module name="restaurant-app-1605" />
+        <module name="restaurant-app-0610" />
+        <module name="restaurant-app-0611" />
+        <module name="Restaurant App - Base Solutoin" />
+        <module name="restaurant-app-2005" />
+        <module name="restaurant-app" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
